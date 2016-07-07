@@ -16,4 +16,4 @@ define('WP_USE_THEMES', true);
 /** Loads the WordPress Environment and Template */
 
 //print_r(phpinfo()); exit;
-require( dirname( __FILE__ ) . '/d2f8own05fnks8.cloudfront.net/wp-blog-header.php' );
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );
